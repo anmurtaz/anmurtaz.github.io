@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><pattern id="g" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#84715c" opacity=".25"/></pattern></defs>
+  <rect width="1200" height="630" fill="#141513"/>
+  <rect x="760" y="30" width="400" height="535" fill="url(#g)"/>
+  <text x="65" y="112" font-family="monospace" font-size="13" letter-spacing="1" fill="#cec2af">ORACLE ACONEX · PLATFORM USED BY 6M+ USERS</text>
+  <text x="59" y="232" font-family="Arial,sans-serif" font-size="92" letter-spacing="-5" fill="#eeeae2">Anas Murtaza<tspan fill="#e8aa82">.</tspan></text>
+  <text x="65" y="295" font-family="Arial,sans-serif" font-size="25" fill="#d8d0c2">Software Application Engineer II<tspan dx="8" fill="#e8aa82">@ Oracle</tspan></text>
+  <text x="65" y="384" font-family="Arial,sans-serif" font-size="37" letter-spacing="-1" fill="#eeeae2">I build backend systems that scale.</text>
+  <text x="65" y="461" font-family="Arial,sans-serif" font-size="18" fill="#b0afa5">Distributed systems. Performance. Reliability. Applied AI.</text>
+  <path d="M65 532h1065" stroke="#34362f"/>
+  <text x="65" y="577" font-family="monospace" font-size="14" fill="#aaa28f">anmurtaz.github.io</text>
+  <g fill="none" stroke="#816b50"><circle cx="960" cy="297" r="149" stroke-opacity=".3"/><circle cx="960" cy="297" r="102" stroke-opacity=".2"/><path d="M807 297h51v-95h70M807 297h121M807 297h51v95h70M961 202h28v95h80M961 297h108M961 392h28v-95"/></g>
+  <g fill="#28231b" stroke="#bf9468"><rect x="928" y="184" width="33" height="36" rx="5"/><rect x="928" y="279" width="33" height="36" rx="5"/><rect x="928" y="374" width="33" height="36" rx="5"/><circle cx="989" cy="297" r="17"/></g>
+  <g fill="#e8aa82"><circle cx="989" cy="297" r="5"/><circle cx="840" cy="297" r="3"/></g>
+  <rect x="1069" y="280" width="31" height="34" rx="5" fill="#25291e" stroke="#a8b78f"/><path d="m1077 297 5 5 10-11" fill="none" stroke="#bdd29f" stroke-width="2"/>
+</svg>
