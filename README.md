@@ -51,15 +51,15 @@ Set the domain in GitHub Pages settings and configure its DNS. Add `public/CNAME
 | Visual system and responsive styles | `src/styles/global.css` |
 | Social metadata and structured data | `index.html` |
 
-Replace **`public/resume/Anas-Murtaza-2026.pdf`** to update the résumé download; the supplied original is kept unchanged. If its name changes, update `src/data/links.ts` and the expected asset in `scripts/check-build.mjs`.
+Replace **`public/resume/Anas-Murtaza-Resume.pdf`** to update the résumé download; the supplied PDF is served without modification. If its name changes, update `src/data/links.ts` and the expected asset in `scripts/check-build.mjs`.
 
 ## Content and visual accuracy
 
-- Professional content comes from the supplied résumé and newer LinkedIn PDF. The current title is **Software Application Engineer II (IC2)**, from October 2026. The previous role ends in October 2026, following the explicit portfolio brief.
+- Professional content comes from the supplied résumé and newer LinkedIn PDF. The current title is **Application Software Engineer II (IC2)**, from October 2026. The previous role ends in October 2026, following the explicit portfolio brief.
 - The 6M+ figure describes the platform's users. It is not attributed to personal user acquisition. Performance metrics retain their documented workload and scope. “Up to two developer-days” is a maximum, not an average or guarantee.
 - Diagrams are conceptual illustrations, not proprietary architecture. The ScanMasterPro visual is explicitly labeled **Workflow illustration**; it is not a generated product screenshot. No internal code, identifiers, URLs, screenshots, or report data were included.
 - No GitHub contributions, repository counts, or stars are invented or fetched. The site links to the supplied public profile.
-- The supplied résumé predates the promotion and is intentionally retained per the owner's request.
+- The résumé download serves the owner-supplied `Anas-Murtaza-Resume.pdf` without modification.
 - Personal interests and contact links were explicitly supplied by the owner.
 
 ## Accessibility and performance
@@ -74,7 +74,7 @@ Run `npm run check` and review the production preview at desktop and mobile widt
 
 ## Professional hierarchy refinement
 
-The opening now leads with Anas Murtaza, the full Software Application Engineer II title, and Oracle affiliation. Oracle Aconex platform scale provides immediate context. Selected engineering work follows the hero, then a shorter impact section, career progression, and contact.
+The opening now leads with Anas Murtaza, the full Application Software Engineer II title, and Oracle affiliation. Oracle Aconex platform scale provides immediate context. Selected engineering work follows the hero, then a shorter impact section, career progression, and contact.
 
 Case studies lead with concrete names: Metadata Synchronization, Start Review Optimization, ScanMasterPro, and Production Reliability & Modernization. The original editorial headlines are retained as subtitles. LinkedIn, GitHub, email, and the résumé have clearer visual treatment. Social preview artwork and metadata follow the same emphasis on professional identity.
 

@@ -7,5 +7,5 @@ export const links = {
   linkedin: 'https://www.linkedin.com/in/anas-murtaza',
   github: 'https://github.com/cartuuun',
   instagram: 'https://www.instagram.com/cartuun_',
-  resume: '/resume/Anas-Murtaza-2026.pdf',
+  resume: '/resume/Anas-Murtaza-Resume.pdf',
 };

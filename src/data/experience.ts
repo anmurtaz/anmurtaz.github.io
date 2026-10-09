@@ -1,6 +1,6 @@
 export const experience = [
   {
-    title: 'Software Application Engineer II',
+    title: 'Application Software Engineer II',
     company: 'Oracle',
     period: 'October 2026 — Present',
     year: '2026',
@@ -9,7 +9,7 @@ export const experience = [
     focus: 'End-to-end engineering · Technical ownership · Production impact',
   },
   {
-    title: 'Software Application Engineer',
+    title: 'Application Software Engineer',
     company: 'Oracle',
     period: 'August 2023 — October 2026',
     year: '2023',

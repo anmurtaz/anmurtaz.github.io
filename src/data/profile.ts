@@ -1,6 +1,6 @@
 export const profile = {
   name: 'Anas Murtaza',
-  title: 'Software Application Engineer II',
+  title: 'Application Software Engineer II',
   level: 'IC2',
   company: 'Oracle',
   location: 'Hyderabad, India',
