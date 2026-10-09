@@ -24,7 +24,7 @@ The project `.npmrc` selects the public npm registry so installations and the lo
 
 ## Publish to anmurtaz.github.io
 
-1. Create the GitHub repository **anmurtaz/anmurtaz.github.io**. The account must be `anmurtaz` to publish at the requested address; the GitHub profile link in this portfolio intentionally points to `cartuuun`.
+1. Create the GitHub repository **anmurtaz/anmurtaz.github.io**. The account must be `anmurtaz` to publish at the requested address; the portfolio links to the `anmurtaz` GitHub profile.
 2. Add the project files, including `package-lock.json` and `.github/workflows/deploy.yml`, to the repository and push to `main`.
 3. In the repository's **Settings → Pages → Build and deployment**, select **GitHub Actions** as the source.
 4. Run the **Deploy portfolio to GitHub Pages** workflow manually once, or push a new commit to `main`.
